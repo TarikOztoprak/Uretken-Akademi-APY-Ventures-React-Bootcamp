@@ -1,0 +1,69 @@
+.baslik{
+    width: 700px;
+    border: 3px solid;
+    text-align: center;
+}
+
+.cerceve{
+    width: 695px;
+    height: 480px;
+    border: 3px;
+    border-style: inset;
+    padding: 0px;
+    
+}
+
+.cevap{
+    width: 584px;
+    height: 84px;
+    border: 3px;
+    margin-left: 5px;
+    margin-top: 5px;
+    float: left;
+    border-style: inset;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.miniButton{
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 84px;
+    float: left;
+    height: 84px;
+    border: 3px;
+    border-style: inset;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.buyukButton{
+    width: 187px;
+    float: left;
+    height: 84px;
+    margin-left: 5px;
+    margin-top: 5px;
+    border: 3px;
+    border-style: inset;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn{
+    width: 98%; height:95%; 
+    background-color: darkgray; 
+    font-size: 40px;
+    border: 10px inset #000;
+    
+}
+
+.cevapEkran{
+    width: 96%; 
+    height:75%; 
+    background-color: darkgray; 
+    font-size: 40px;
+    border: 9px inset #000;
+}

@@ -1,0 +1,52 @@
+body{
+    text-align: center;
+    vertical-align: center;
+    background-color: lightblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-collapse: collapse;
+}
+
+div.cerceve{
+    width: 560px;
+    height: 470px;
+    background-color: yellow;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-top: 3px;
+    border-collapse: collapse;
+    border: 3px groove black;
+    margin: 0 auto;
+}
+
+div.kare{
+    width: 184px;
+    height: 154px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+
+div.btn{
+    width: 60px;
+    height: 50px;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    font-size: large;
+    line-height: 50px;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+
+h1{
+    font-size: 3em;
+    font-weight: bold;
+}
